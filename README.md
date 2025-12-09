@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-
-The Fundamental project focuses on the Agent side of a Reinforcement 
-Learning setting. In this project, we have to implement a Reinforcement Learning agent.
-For building this project we use Gradient free optimization algorithm 
-and we are implemented in two methods zeroth order and population methods.
-
-Overview of the project 
-
- In this project file contains mainly two python scripts 
- RL_PopulationMethod.py implemented the population method of the policy by using simple neural network
- RL_zeroth_Order.py implemented the zeroth order method
- Results file describes the project report and the evaluation plots. 
-=======
 In this repository contains various academic projects in the field of Artificial intelligence.
 ## In the cloud computing and bigdata project project implements a distributed Stock Exchange system using modern cloud computing technologies 
 including Docker containerization, Kubernetes orchestration, and microservices architecture. 
@@ -23,4 +9,8 @@ zoom, and explore the job trends in real time.
 ## Machine learning project related to the image classification of animals by using different ML algorithms.
 ## Statistical foundation of ML project is related to the research question of Machine laearning and we analyze the data with visuals by using ml algorithms.
 ## Reinforcement learning project implement the simple agent by using neural network algorithms.
->>>>>>> 35abea317b7ffa463ca187d7d1f1947146e9f482
+The Fundamental project focuses on the Agent side of a Reinforcement 
+Learning setting. In this project, we have to implement a Reinforcement Learning agent.
+For building this project we use Gradient free optimization algorithm 
+and we are implemented in two methods zeroth order and population methods.
+
