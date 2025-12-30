@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: order-manager-config
+data:
+  PORT: "3002"
+  MARKET_DATA_PUBLISHER_URL: "http://market-data-publisher.svc.cluster.local:3003/data"
+  STOCK_SYMBOLS: "AAPL,AMZN,GOOGL,MSFT"
+

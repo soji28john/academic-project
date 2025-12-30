@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: market-data-publisher-config
+data:
+  PORT: "3003"
+  DASHBOARD_WS_PATH: "/ws"
