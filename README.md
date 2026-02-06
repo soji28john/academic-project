@@ -1,5 +1,5 @@
 In this repository contains various academic projects in the field of Artificial intelligence.
-## In the cloud computing and bigdata project project implements a distributed Stock Exchange system using modern cloud computing technologies 
+### In the cloud computing and bigdata project project implements a distributed Stock Exchange system using modern cloud computing technologies 
 including Docker containerization, Kubernetes orchestration, and microservices architecture. 
 ## Information Visualisation project 2024-25
 This project helps people explore job opportunities in a better way. We made an Job Statistics Visualisation Tool interactive tool
