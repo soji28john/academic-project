@@ -1,7 +1,12 @@
-Transfer Learning for Automated Quality Control in Injection Moulding (Time series project with real-world datasets).
-ML algorithms can learn complex relationships between process parameters and product quality, and can predict critical quality indicators 
-enabling real-time defect detection, process optimization, and predictive maintenance. 
-The solution uses 1D-Convolutional Neural Network (1D-CNN) model on simulated data and a limited real-world dataset, and applies transfer learning to finetune the developed ML model. 
-The 1D-CNN model analyses high-frequency time-series sensor data (Pressure and Volume), capturing temporal sensor patterns ignored by traditional machine learning methods. Key Solution Concepts: 1D- CNN, Transfer Learning, Time series regression, Signal resampling, Statistical Quality control.
-Technologies: Python, TensorFlow/Keras, Scikit-Learn, SciPy, NumPy, Pandas, Matplotlib
-Outcome: Optimized model performance through fine-tuning, mitigate the simulated to real data gap, reducing Mean Absolute Error (MAE) from 48.8mm to 0.44mm, ensuring high-precision monitoring of the mould-opening process.
+In this repository contains various academic projects in the field of Artificial intelligence.
+## In the cloud computing and bigdata project project implements a distributed Stock Exchange system using modern cloud computing technologies 
+including Docker containerization, Kubernetes orchestration, and microservices architecture. 
+## Information Visualisation project 2024-25
+This project helps people explore job opportunities in a better way. We made an Job Statistics Visualisation Tool interactive tool
+that shows job data from LinkedIn. The dataset taken from kaggle(linkedin job postings from 2023-2024) includes over 124,000 job posts from 2023 and 2024. Our targetted users are students, 
+job seekers, teachers, and data analysts learn what kinds of jobs and skills are growing in demand. Users can click,
+zoom, and explore the job trends in real time.
+## Machine learning project related to the image classification of animals by using different ML algorithms.
+## Statistical foundation of ML project is related to the research question of Machine laearning and we analyze the data with visuals by using ml algorithms.
+## Reinforcement learning project implement the simple agent by using neural network algorithms.
+## Master's thesis - Transfer learning for automated Quality control in Injection moulding.
