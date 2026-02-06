@@ -1,4 +1,4 @@
-Transfer Learning for Automated Quality Control in Injection Moulding (Time series project with real-world datasets)
+Transfer Learning for Automated Quality Control in Injection Moulding (Time series project with real-world datasets).
 ML algorithms can learn complex relationships between process parameters and product quality, and can predict critical quality indicators 
 enabling real-time defect detection, process optimization, and predictive maintenance. 
 The solution uses 1D-Convolutional Neural Network (1D-CNN) model on simulated data and a limited real-world dataset, and applies transfer learning to finetune the developed ML model. 
